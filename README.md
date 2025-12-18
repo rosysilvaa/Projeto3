@@ -15,7 +15,7 @@ O foco principal deste projeto foi aplicar conceitos fundamentais de design resp
 * **Font Awesome:** Ícones para redes sociais e detalhes do menu.
 
 ## Imagem do Projeto
-![Uploading Imagem do projeto.png…]()
+
 
 
 
