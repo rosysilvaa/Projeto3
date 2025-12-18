@@ -1,6 +1,6 @@
 
 
-## ☕ Cafeteria Dev - Aroma & Código
+## ☕ Cafeteria Dev - 
 
 Bem-vindo ao repositório do site **Cafeteria Dev**! Este é um projeto de interface (front-end) desenvolvido para simular a presença online de uma cafeteria moderna e aconchegante.
 
@@ -15,7 +15,7 @@ O foco principal deste projeto foi aplicar conceitos fundamentais de design resp
 
 ## Imagem do Projeto
 
-![Uploading Imagem do projeto.png…]()
+
 
 
 
