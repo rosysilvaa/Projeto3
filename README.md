@@ -16,6 +16,9 @@ O foco principal deste projeto foi aplicar conceitos fundamentais de design resp
 
 ## Imagem do Projeto
 
+<img width="1366" height="768" alt="Imagem do projeto" src="https://github.com/user-attachments/assets/1a928e19-7dc4-4db2-814d-2e89ff64457d" />
+
+
 
 
 
